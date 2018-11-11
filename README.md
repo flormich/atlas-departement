@@ -16,8 +16,12 @@ git clone  https://github.com/flormich/atlas-departement
 ```
 
 ## 📺 [Demo]
+<p align="center"
+  
+ ![logo](Departement.gif)>
+ 
+</p>
 
-![logo](resources/atlas-departement.gif)
 
 ## ➕ Todo
 
